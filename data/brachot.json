@@ -1,0 +1,588 @@
+[
+  {
+    "id": "hamoci",
+    "title": "Áldás kenyérre (Hámoci)",
+    "category": "ételek",
+    "emoji": "🍞",
+    "buttonLabel": "Kenyeret eszem",
+    "when": "Kenyér, challa vagy kalács evése előtt.",
+    "keywords": [
+      "kenyer", "kenyér", "kenyeret", "challa", "halla", "kalacs", "kalács",
+      "cipó", "zsemle", "kifli", "péksütemény", "eszem kenyeret", "szendvics",
+      "bread", "hamoci", "hámoci", "hamotzi"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, hámoci lechem min háárec.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki kenyeret hozol elő a földből."
+  },
+  {
+    "id": "mezonot",
+    "title": "Áldás süteményre és tésztára (Mezonot)",
+    "category": "ételek",
+    "emoji": "🍪",
+    "buttonLabel": "Süteményt eszem",
+    "when": "Sütemény, keksz, tészta, pizza, zabkása evése előtt — ha nem kenyér.",
+    "keywords": [
+      "sütemény", "sutemeny", "torta", "keksz", "tészta", "teszta", "pizza",
+      "kalács nem challa", "pogácsa", "rétes", "flódni", "kifli édes",
+      "zabkása", "gabona", "mezonot", "mezonót", "eszem sütit"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא מִינֵי מְזוֹנוֹת.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré miné mezonot.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki különféle ételeket teremtesz."
+  },
+  {
+    "id": "gefen",
+    "title": "Boráldás (Bore pri hágáfen)",
+    "category": "italok",
+    "emoji": "🍷",
+    "buttonLabel": "Bort iszom",
+    "when": "Bor vagy szőlőlé ivása előtt (kiddus, havdálá, étkezés).",
+    "keywords": [
+      "bor", "bort", "piálok", "iszom bort", "vörösbor", "fehérbor", "pezsgő",
+      "szőlőlé", "szolo", "szőlőlé", "kiddus", "kidus", "must", "wine",
+      "gefen", "gáfen", "hagáfen"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré pri hágáfen.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki a szőlő gyümölcsét teremted."
+  },
+  {
+    "id": "eec",
+    "title": "Áldás fa gyümölcsére (Bore pri háéc)",
+    "category": "ételek",
+    "emoji": "🍎",
+    "buttonLabel": "Almát falatozom",
+    "when": "Fán termő gyümölcs evése előtt: alma, körte, szilva, barack, cseresznye, dió, datolya.",
+    "keywords": [
+      "alma", "almát", "körte", "korte", "szilva", "barack", "cseresznye",
+      "meggy", "dió", "datolya", "füge", "narancs", "citrom", "gyümölcs",
+      "gyumolcs", "fa gyümölcse", "haetz", "háéc", "eec", "eszem almát"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הָעֵץ.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré pri háéc.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki a fa gyümölcsét teremted."
+  },
+  {
+    "id": "hadama",
+    "title": "Áldás föld gyümölcsére (Bore pri háádámá)",
+    "category": "ételek",
+    "emoji": "🥕",
+    "buttonLabel": "Zöldséget eszem",
+    "when": "Földből növő zöldség, gomba, dinnye, eper, banán evése előtt.",
+    "keywords": [
+      "zöldség", "zoldseg", "répa", "repa", "uborka", "paradicsom", "hagyma",
+      "krumpli", "burgonya", "saláta", "eper", "dinnye", "görögdinnye",
+      "banán", "banan", "gomba", "káposzta", "háádámá", "hadama", "haadama"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הָאֲדָמָה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré pri háádámá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki a föld gyümölcsét teremted."
+  },
+  {
+    "id": "sehakol",
+    "title": "Áldás vízre és egyéb ételre (Sehákol)",
+    "category": "ételek",
+    "emoji": "💧",
+    "buttonLabel": "Vizet vagy teát iszom",
+    "when": "Víz, tea, kávé, hús, tojás, sajt, hal, csokoládé és minden egyéb étel-ital előtt.",
+    "keywords": [
+      "víz", "viz", "vizet", "tea", "teát", "kávé", "kave", "kóla", "sör",
+      "hús", "hus", "tojás", "tojas", "sajt", "hal", "csoki", "csokoládé",
+      "iszom", "inni", "szomjas", "sehakol", "sehákol", "shehakol"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, sehákol nihjeh bidváró.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, akinek szavára minden létrejött."
+  },
+  {
+    "id": "al-hamichya",
+    "title": "Utóáldás sütemény után (Al hámichjá)",
+    "category": "utóáldások",
+    "emoji": "🌾",
+    "when": "Mezonot evése után, valamint szőlő, füge, datolya, gránátalma vagy bor után (rövid utóáldás).",
+    "keywords": [
+      "utóáldás", "utoaldas", "sütemény után", "mezonot után", "al hamichya",
+      "al hámichjá", "bentshing rövid", "étkezés után süti"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, עַל הַמִּחְיָה וְעַל הַכַּלְכָּלָה וְעַל תְּנוּבַת הַשָּׂדֶה, וְעַל אֶרֶץ חֶמְדָּה טוֹבָה וּרְחָבָה שֶׁרָצִיתָ וְהִנְחַלְתָּ לַאֲבוֹתֵינוּ לֶאֱכֹל מִפִּרְיָהּ וְלִשְׂבֹּעַ מִטּוּבָהּ. בָּרוּךְ אַתָּה יְיָ, עַל הָאָרֶץ וְעַל הַמִּחְיָה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, al hámichjá veal hákalkálá veal tnuvát hászáde, veal erec chemdá tová urchává... Báruch átáh Ádonáj, al háárec veal hámichjá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, a táplálékért, a gondoskodásért és a mező terméséért. Áldott vagy Te, Örökkévaló, a földért és a táplálékért."
+  },
+  {
+    "id": "bore-nefashot",
+    "title": "Utóáldás egyéb étel után (Bore nefásot)",
+    "category": "utóáldások",
+    "emoji": "✨",
+    "when": "Sehákol, háéc vagy háádámá után, ha nem mondunk Al hámichját vagy bentsinget.",
+    "keywords": [
+      "bore nefashot", "bore nefásot", "utóáldás víz után", "étel után rövid",
+      "gyümölcs után áldás", "nefashot"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא נְפָשׁוֹת רַבּוֹת וְחֶסְרוֹנָן עַל כָּל מַה שֶּׁבָּרָא לְהַחֲיוֹת בָּהֶם נֶפֶשׁ כָּל חָי. בָּרוּךְ חֵי הָעוֹלָמִים.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré nefásot rábót vecheszronán, al kol má sebárá lecháchájot báhem nefes kol cháj. Báruch ché háolámim.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki sok lelket és azok hiányát teremted, mindazzal, amit alkottál, hogy minden élőt táplálj. Áldott az Örökkévalók Élete."
+  },
+  {
+    "id": "birkat-hamazon",
+    "title": "Étkezés utáni áldás (Birkat hámázon / bentsing)",
+    "category": "utóáldások",
+    "emoji": "🕊️",
+    "buttonLabel": "Kenyér után bentsing",
+    "when": "Kenyérrel étkezés után. Itt a nyitóáldás (Házán et hákol) szerepel; a teljes bentsing a sidurból folytatható.",
+    "keywords": [
+      "bentsing", "bencsing", "birkat hamazon", "birkat hámázon", "étkezés után",
+      "kenyér után", "ebéd után áldás", "vacsora után", "házán", "hazan"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַזָּן אֶת הָעוֹלָם כֻּלּוֹ בְּטוּבוֹ בְּחֵן בְּחֶסֶד וּבְרַחֲמִים. הוּא נוֹתֵן לֶחֶם לְכָל בָּשָׂר כִּי לְעוֹלָם חַסְדּוֹ. וּבְטוּבוֹ הַגָּדוֹל תָּמִיד לֹא חָסַר לָנוּ וְאַל יֶחְסַר לָנוּ מָזוֹן לְעוֹלָם וָעֶד. בָּרוּךְ אַתָּה יְיָ, הַזָּן אֶת הַכֹּל.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, házán et háolám kuló betuvó, bechén, becheszed uvrachámim. Hu notén lechem lechol bászár, ki leolám chászdó... Báruch átáh Ádonáj, házán et hákol.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki jóságával, keggyel, szeretettel és irgalommal táplálod az egész világot. Áldott vagy Te, Örökkévaló, aki mindenkit táplálsz."
+  },
+  {
+    "id": "netilat-yadayim",
+    "title": "Kézmosás kenyér előtt (Al netilát jádájim)",
+    "category": "micvák",
+    "emoji": "🧼",
+    "buttonLabel": "Kezet mosok kenyér előtt",
+    "when": "Kenyér evése előtti rituális kézmosáskor, a kezek megszárítása előtt.",
+    "keywords": [
+      "kézmosás", "kezmosas", "kezet mosok", "netilat yadayim", "netilát",
+      "jádájim", "kenyér előtt kéz", "mosakodás étkezés előtt"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת יָדָיִם.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al netilát jádájim.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megszenteltél micváiddal, és megparancsoltad a kezek megmosását."
+  },
+  {
+    "id": "aszerjacar",
+    "title": "Áldás a testért (Áser jácár)",
+    "category": "test",
+    "emoji": "💊",
+    "buttonLabel": "Mosdóból jövök / gyógyszer",
+    "when": "Mosdóhasználat után, valamint a test működéséért, gyógyszer bevételekor.",
+    "keywords": [
+      "mosdó", "mosdo", "wc", "toalett", "fürdő", "gyógyszer", "gyogyszer",
+      "test", "vécé", "asher yatzar", "áser jácár", "aszerjacar", "kézmosás wc után"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר יָצַר אֶת הָאָדָם בְּחָכְמָה, וּבָרָא בוֹ נְקָבִים נְקָבִים חֲלוּלִים חֲלוּלִים. בָּרוּךְ אַתָּה יְיָ, רוֹפֵא כָל בָּשָׂר וּמַפְלִיא לַעֲשׂוֹת.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser jácár et háádám bechochmá, uvárá bo nekávim nekávim, chálulim chálulim. Báruch átáh Ádonáj, rofé chol bászár umáfli láászot.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki bölcsen alkottad az embert. Áldott vagy Te, Örökkévaló, aki minden testet gyógyítasz és csodálatos dolgokat művelsz."
+  },
+  {
+    "id": "modeani",
+    "title": "Reggeli hála (Mode áni)",
+    "category": "reggel",
+    "emoji": "🌅",
+    "buttonLabel": "Reggel van",
+    "when": "Közvetlenül ébredés után, még fekve, Isten neve nélkül.",
+    "keywords": [
+      "reggel", "ébredés", "ebredes", "felkeltem", "felébredtem", "alvás után",
+      "mode ani", "mode áni", "modeani", "jó reggelt", "felkelek"
+    ],
+    "hebrew": "מוֹדֶה אֲנִי לְפָנֶיךָ מֶלֶךְ חַי וְקַיָּם, שֶׁהֶחֱזַרְתָּ בִּי נִשְׁמָתִי בְּחֶמְלָה, רַבָּה אֱמוּנָתֶךָ.",
+    "phonetic": "Mode áni lefánechá melech cháj vekájám, sehechezártá bi nismáti bechemlá, rábbá emunátechá.",
+    "translation": "Hálát adok Előtted, élő és örökkévaló Király, hogy irgalmasan visszaadtad belém a lelkemet – nagy a Te hűséged."
+  },
+  {
+    "id": "elohai-neshama",
+    "title": "A lélek áldása (Eloháj nesámá)",
+    "category": "reggel",
+    "emoji": "💛",
+    "when": "Reggel, kézmosás és Áser jácár után, a lélek visszaadásáért.",
+    "keywords": [
+      "elohai neshama", "eloháj nesámá", "lélek", "lelek", "nesama", "nesámá",
+      "reggeli ima lélek"
+    ],
+    "hebrew": "אֱלֹהַי, נְשָׁמָה שֶׁנָּתַתָּ בִּי טְהוֹרָה הִיא. אַתָּה בְרָאתָהּ, אַתָּה יְצַרְתָּהּ, אַתָּה נְפַחְתָּהּ בִּי, וְאַתָּה מְשַׁמְּרָהּ בְּקִרְבִּי. בָּרוּךְ אַתָּה יְיָ, הַמַּחֲזִיר נְשָׁמוֹת לִפְגָרִים מֵתִים.",
+    "phonetic": "Eloháj, nesámá senátátá bi tehorá hi. Átá várátáh, átá jecártáh, átá nofachtáh bi, veátá mesamráh bekirbi. Báruch átáh Ádonáj, hámácházir nesámot lifgárim métim.",
+    "translation": "Istenem, a lélek, amelyet belém adtál, tiszta. Te teremtetted, Te formáltad, Te lehelted belém, és Te őrzöd bennem. Áldott vagy Te, Örökkévaló, aki lelkeket adsz vissza a holt testeknek."
+  },
+  {
+    "id": "haderech",
+    "title": "Úti áldás (Tfilát háderech)",
+    "category": "utazás",
+    "emoji": "🚗",
+    "buttonLabel": "Hosszú útra indulok",
+    "when": "Hosszabb utazás megkezdésekor, a városból kiérve.",
+    "keywords": [
+      "út", "ut", "útra", "utazás", "utazom", "vonat", "vonatozom", "repülő",
+      "repulo", "autó", "auto", "kocsi", "busz", "indulok", "kirándulás",
+      "haderech", "háderech", "tefilat haderech", "úti ima"
+    ],
+    "hebrew": "יְהִי רָצוֹן מִלְּפָנֶיךָ יְיָ אֱלֹהֵינוּ וֵאלֹהֵי אֲבוֹתֵינוּ, שֶׁתּוֹלִיכֵנוּ לְשָׁלוֹם וְתַצְעִידֵנוּ לְשָׁלוֹם וְתַגִּיעֵנוּ לִמְחוֹז חֶפְצֵנוּ לְחַיִּים וּלְשִׂמְחָה וּלְשָׁלוֹם. בָּרוּךְ אַתָּה יְיָ, שׁוֹמֵעַ תְּפִלָּה.",
+    "phonetic": "Jehi rácon milfánechá Ádonáj Elohénu vélohé ávoténu, setolichénu lesálom, vetacidénu lesálom, vetágiénu limchoz cheftzénu lecháim ulszimchá ulsálom. Báruch átáh Ádonáj, soméá tfilá.",
+    "translation": "Legyen akaratod szerint, Örökkévaló Istenünk és őseink Istene, hogy békében vezess minket utunkon, békében léptess, és békében, életben és örömben juttass el úti célunkhoz. Áldott vagy Te, Örökkévaló, aki meghallgatod az imát."
+  },
+  {
+    "id": "maasze",
+    "title": "Áldás villámlásra, tengerre, hegyekre (Oszé máászé vörésit)",
+    "category": "természet",
+    "emoji": "⚡",
+    "buttonLabel": "Villámlást láttam",
+    "when": "Villámlás, tenger, magas hegyek vagy hatalmas természeti csoda láttán.",
+    "keywords": [
+      "villám", "villam", "villámlás", "villámlást", "tenger", "óceán", "hegy",
+      "hegyek", "vihar fény", "lightning", "maasze", "máászé", "bereshit"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, עוֹשֶׂה מַעֲשֵׂה בְרֵאשִׁית.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, oszé máászé vörésit.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki a teremtés művét cselekszi."
+  },
+  {
+    "id": "raam",
+    "title": "Áldás dörgésre (Sekochó ugvurátó)",
+    "category": "természet",
+    "emoji": "⛈️",
+    "when": "Dörgés hallatán.",
+    "keywords": [
+      "dörgés", "dorges", "mennydörgés", "ézdörgés", "vihar hang", "thunder",
+      "raam", "sekocho", "sekochó"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁכֹּחוֹ וּגְבוּרָתוֹ מָלֵא עוֹלָם.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, sekochó ugvurátó málé olám.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, akinek ereje és hősiessége betölti a világot."
+  },
+  {
+    "id": "rainbow",
+    "title": "Áldás szivárványra (Zocher hábrit)",
+    "category": "természet",
+    "emoji": "🌈",
+    "when": "Szivárvány láttán — Noé szövetségének emléke.",
+    "keywords": [
+      "szivárvány", "szivarvany", "rainbow", "noé", "szövetség", "zocher habrit",
+      "zocher hábrit"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, זוֹכֵר הַבְּרִית וְנֶאֱמָן בִּבְרִיתוֹ וְקַיָּם בְּמַאֲמָרוֹ.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, zocher hábrit veneemán bivritó vekájám bemaamáró.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megemlékezel a szövetségről, hű vagy szövetségedhez, és megtartod szavad."
+  },
+  {
+    "id": "blossoming-trees",
+    "title": "Áldás virágzó fákra (Se lo chiszár)",
+    "category": "természet",
+    "emoji": "🌸",
+    "when": "Niszán hónapban, gyümölcsfák virágzásának első látásakor.",
+    "keywords": [
+      "virágzó fa", "viragzo", "gyümölcsfa virág", "tavasz fák", "niszán",
+      "cseresznyevirág", "shelo chisar", "fák virágzanak"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁלֹּא חִסַּר בְּעוֹלָמוֹ כְּלוּם, וּבָרָא בוֹ בְּרִיּוֹת טוֹבוֹת וְאִילָנוֹת טוֹבוֹת לֵהָנוֹת בָּהֶם בְּנֵי אָדָם.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, se lo chiszár beolámó klum, uvárá vo brijot tovot veílánót tovot lehenot báhem bné ádám.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki semmit nem hagyott hiányosnak világában, és szép teremtményeket és fákat alkotott, hogy az ember gyönyörködjék bennük."
+  },
+  {
+    "id": "sehecheyanu",
+    "title": "Áldás új dologra (Sehechejánu)",
+    "category": "életciklus",
+    "emoji": "👗",
+    "buttonLabel": "Új ruhát vettem fel",
+    "when": "Új ruha, új gyümölcs, öröm, ünnep első alkalma.",
+    "keywords": [
+      "új ruha", "uj ruha", "ruha", "új", "ünnep első", "első alkalom",
+      "örömhír új", "sehecheyanu", "sehechejánu", "shehecheyanu"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁהֶחֱיָנוּ וְקִיְּמָנוּ וְהִגִּיעָנוּ לַזְּמַן הַזֶּה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, sehechejánu vekijjemánu vehigiánu lázmán háze.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki életben tartottál, megőriztél, és elérnünk engedted ezt az időt."
+  },
+  {
+    "id": "hagomel",
+    "title": "Hálaáldás megmenekülésért (Hágomél)",
+    "category": "életciklus",
+    "emoji": "🙏",
+    "buttonLabel": "Meggyógyultam / hálát adok",
+    "when": "Betegségből való felgyógyulás, veszélyes út vagy megmenekülés után, lehetőleg minjánban.",
+    "keywords": [
+      "meggyógyultam", "gyógyulás", "felépültem", "kórház", "megmenekültem",
+      "hála", "halat adok", "gomel", "hagomel", "hágomél", "műtét után"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַגּוֹמֵל לְחַיָּבִים טוֹבוֹת, שֶׁגְּמָלַנִי כָּל טוֹב.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, hágomél lechájávim tovot, segemáláni kol tov.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki jótéteményekkel halmozod el a rászorulókat, és aki velem is minden jót tett."
+  },
+  {
+    "id": "hatov-vehameitiv",
+    "title": "Áldás jó hírre (Hátov vehámeitiv)",
+    "category": "életciklus",
+    "emoji": "🎉",
+    "when": "Olyan jó hír hallatán, amely másoknak is öröm, például eső a szárazság után, örökség, ikrek születése.",
+    "keywords": [
+      "jó hír", "jo hir", "örömhír", "hatov", "hátov vehámeitiv", "jótékony",
+      "eső a szárazság után", "nagy öröm"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַטּוֹב וְהַמֵּטִיב.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, hátov vehámeitiv.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki jó és jót cselekszik."
+  },
+  {
+    "id": "dayan-haemet",
+    "title": "Áldás gyászra, rossz hírre (Dáján háemet)",
+    "category": "életciklus",
+    "emoji": "🕯️",
+    "when": "Halálhír, gyász, temetés, szakadás (keria) alkalmával.",
+    "keywords": [
+      "gyász", "gyasz", "halál", "halott", "temetés", "rossz hír", "keria",
+      "dayan haemet", "dáján háemet", "elhunyt", "gyászolok"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, דַּיַּן הָאֱמֶת.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, dáján háemet.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, az igazság Bírája."
+  },
+  {
+    "id": "shabbat-candles",
+    "title": "Szombati gyertyagyújtás (Lehadlik ner sel sábát)",
+    "category": "szombat",
+    "emoji": "🕯️",
+    "buttonLabel": "Szombati gyertyát gyújtok",
+    "when": "Péntek este, a szombat bejötte előtt, a gyertyák meggyújtása után.",
+    "keywords": [
+      "gyertyagyújtás", "gyertya", "szombat", "péntek este", "sábát", "shabbat",
+      "gyújtok", "gyertyát gyújtok", "lehadlik", "ner shel shabbat", "asszony gyertya"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל שַׁבָּת.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lehadlik ner sel sábát.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megszenteltél micváiddal, és megparancsoltad a szombati gyertya meggyújtását."
+  },
+  {
+    "id": "kiddush-shabbat",
+    "title": "Péntek esti kiddus",
+    "category": "szombat",
+    "emoji": "🍇",
+    "when": "Péntek este, a boráldás után mondott kiddus. Előtte mondd a hágáfen áldást.",
+    "keywords": [
+      "kiddus", "kiddush", "kidus", "péntek este", "szombat köszöntés",
+      "boros pohár szombat", "kiddust mondok"
+    ],
+    "hebrew": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם הַשִּׁשִּׁי. וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ וְכָל צְבָאָם. וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי מְלַאכְתּוֹ אֲשֶׁר עָשָׂה, וַיִּשְׁבֹּת בַּיּוֹם הַשְּׁבִיעִי מִכָּל מְלַאכְתּוֹ אֲשֶׁר עָשָׂה. בָּרוּךְ אַתָּה יְיָ, מְקַדֵּשׁ הַשַּׁבָּת.",
+    "phonetic": "Vajehi erev vajehi voker, jom hásisí. Vajechulu hásámájim veháárec vechol ceváám... Báruch átáh Ádonáj, mekádes hásábát.",
+    "translation": "És lett este és lett reggel, a hatodik nap. Befejeztettek az ég és a föld. Áldott vagy Te, Örökkévaló, aki megszenteled a szombatot."
+  },
+  {
+    "id": "havdalah",
+    "title": "Havdálá (szombat kimenete)",
+    "category": "szombat",
+    "emoji": "🔥",
+    "buttonLabel": "Szombat kimenete",
+    "when": "Szombat kimenetekor: bor, fűszer, gyertya, majd a választás áldása.",
+    "keywords": [
+      "havdala", "havdálá", "szombat vége", "szombat kimenete", "fűszer",
+      "beszamim", "gyertya havdala", "motke", "motcej sábát"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא פְּרִי הַגָּפֶן.\nבָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא מִינֵי בְּשָׂמִים.\nבָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא מְאוֹרֵי הָאֵשׁ.\nבָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַמַּבְדִּיל בֵּין קֹדֶשׁ לְחֹל.",
+    "phonetic": "Bóré pri hágáfen. Bóré miné beszámim. Bóré meoré háés. Hámávdil bén kodes lechol.",
+    "translation": "Aki a szőlő gyümölcsét teremti. Aki fűszerféléket terem. Aki a tűz fényeit teremti. Aki elválasztja a szentet a köznaptól."
+  },
+  {
+    "id": "hanukkah-candles",
+    "title": "Chanukai gyertyagyújtás",
+    "category": "ünnepek",
+    "emoji": "🕎",
+    "buttonLabel": "Chanukai gyertyát gyújtok",
+    "when": "Chanuka estéjén a mécsesek meggyújtásakor. Első este Sehechejánu is jár.",
+    "keywords": [
+      "chanuka", "hanuka", "hanukkah", "chanukija", "menóra", "gyertyagyújtás chanuka",
+      "olajcsoda", "lehadlik ner chanuka"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַדְלִיק נֵר שֶׁל חֲנֻכָּה.\nבָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁעָשָׂה נִסִּים לַאֲבוֹתֵינוּ בַּיָּמִים הָהֵם בַּזְּמַן הַזֶּה.",
+    "phonetic": "Áser kidesánu bemicvotáv vecivánu lehadlik ner sel chánuká. Seászá niszim láávoténu bájámim háhem bázmán háze.",
+    "translation": "Aki megparancsolta a chanukai gyertya meggyújtását. Aki csodákat tett atyáinkkal azokban a napokban, ebben az időben."
+  },
+  {
+    "id": "sukkah",
+    "title": "Áldás a szukában (Lesév bászuká)",
+    "category": "ünnepek",
+    "emoji": "🌿",
+    "when": "Szukot idején, amikor a szukában tartózkodunk, különösen étkezéskor.",
+    "keywords": [
+      "szuka", "sukkah", "sátor", "szukot", "sátoros ünnep", "leshev basukkah"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לֵישֵׁב בַּסֻּכָּה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lésév bászuká.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad, hogy a szukában üljünk."
+  },
+  {
+    "id": "lulav",
+    "title": "Áldás a lulávra (Al netilát luláv)",
+    "category": "ünnepek",
+    "emoji": "🌴",
+    "when": "Szukot idején a négy fajta (luláv, etrog, hadász, arává) vételekor.",
+    "keywords": [
+      "lulav", "luláv", "etrog", "hadász", "arava", "négy fajta", "szukot növény"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל נְטִילַת לוּלָב.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al netilát luláv.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a luláv vételét."
+  },
+  {
+    "id": "shofar",
+    "title": "Áldás a sófárra",
+    "category": "ünnepek",
+    "emoji": "📯",
+    "when": "Ros hásáná idején, a sófár megfújása előtt.",
+    "keywords": [
+      "sófár", "sofar", "shofar", "kürt", "ros hasana", "újév kürt", "tekia"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לִשְׁמוֹעַ קוֹל שׁוֹפָר.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lismoá kol sófár.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad, hogy halljuk a sófár hangját."
+  },
+  {
+    "id": "matzah",
+    "title": "Áldás a maceszra (Al achilát mácá)",
+    "category": "ünnepek",
+    "emoji": "🫓",
+    "when": "Peszách sederjén, a macesz evésekor, a hámoci után.",
+    "keywords": [
+      "macesz", "macó", "matzah", "peszach", "pészách", "seder", "kovásztalan"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל אֲכִילַת מַצָּה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al achilát mácá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a macesz evését."
+  },
+  {
+    "id": "maror",
+    "title": "Áldás a keserű fűre (Al achilát máror)",
+    "category": "ünnepek",
+    "emoji": "🥬",
+    "when": "Peszách sederjén, a keserű fű (máror) evésekor.",
+    "keywords": [
+      "máror", "maror", "keserű", "torma", "saláta keserű", "seder keserű"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל אֲכִילַת מָרוֹר.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al achilát máror.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a keserű fű evését."
+  },
+  {
+    "id": "megillah",
+    "title": "Áldás a Megillá olvasására",
+    "category": "ünnepek",
+    "emoji": "📜",
+    "when": "Purim idején, Eszter tekercsének felolvasása előtt.",
+    "keywords": [
+      "megilla", "megillá", "purim", "eszter", "tekercs", "al mikra megillah"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל מִקְרָא מְגִלָּה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al mikrá megillá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a Megillá felolvasását."
+  },
+  {
+    "id": "tallit",
+    "title": "Áldás a tállitra (Lehitátef bácicit)",
+    "category": "micvák",
+    "emoji": "🟦",
+    "when": "Nappali imánál a tállit (cicit) magadra öltésekor.",
+    "keywords": [
+      "tallit", "tállit", "cicit", "tzitzit", "imale", "imahát", "lehitateg"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהִתְעַטֵּף בַּצִּיצִת.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lehitátef bácicit.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad, hogy cicitbe burkolózzunk."
+  },
+  {
+    "id": "tefillin",
+    "title": "Áldás a tfilinre",
+    "category": "micvák",
+    "emoji": "📿",
+    "when": "Reggeli imánál a kéz-tfilin felhelyezésekor (a fej-tfilinhez a második áldás askenázi szokás szerint).",
+    "keywords": [
+      "tefillin", "tfilin", "ima szíj", "kéz tfilin", "fej tfilin", "reggeli ima tfilin"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהָנִיחַ תְּפִלִּין.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lehániach tfilin.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a tfilin felhelyezését."
+  },
+  {
+    "id": "besamim",
+    "title": "Illatáldás (Bore miné beszámim)",
+    "category": "illatok",
+    "emoji": "🌸",
+    "when": "Fűszer, parfüm vagy kellemes illat szaglásakor (havdálánál is).",
+    "keywords": [
+      "illat", "fűszer", "fuszer", "parfüm", "szagolok", "beszamim", "beszámim",
+      "rózsa", "levendula", "havdala fűszer"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, בּוֹרֵא מִינֵי בְּשָׂמִים.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, bóré miné beszámim.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki fűszerféléket teremtesz."
+  },
+  {
+    "id": "mezuzah",
+    "title": "Áldás mezúzá felhelyezésére",
+    "category": "micvák",
+    "emoji": "🏠",
+    "when": "Mezúzá ajtófélfára erősítésekor.",
+    "keywords": [
+      "mezuza", "mezúzá", "ajtó", "lakás", "új lakás mezúzá", "kiköltözés"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לִקְבֹּעַ מְזוּזָה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu likboa mezúzá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a mezúzá felhelyezését."
+  },
+  {
+    "id": "hafrashat-challah",
+    "title": "Challa leválasztása (Háfrását challá)",
+    "category": "micvák",
+    "emoji": "🥖",
+    "when": "Sütéskor, a tésztából a challa-rész leválasztásakor.",
+    "keywords": [
+      "challa leválasztás", "tészta áldás", "sütök kalácsot", "hafrasha",
+      "háfrását", "sütés micva"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ לְהַפְרִישׁ חַלָּה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu lehafris challá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad a challa leválasztását."
+  },
+  {
+    "id": "sechvi",
+    "title": "Reggeli áldás: a kakas (Áser nátán lászechvi viná)",
+    "category": "reggel",
+    "emoji": "🐓",
+    "when": "Reggeli áldások (birkot hásachar) között, a nappal felismeréséért.",
+    "keywords": [
+      "kakas", "reggeli áldások", "birkot hashachar", "sechvi", "hajnal",
+      "fölkelek ima"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר נָתַן לַשֶּׂכְוִי בִּינָה לְהַבְחִין בֵּין יוֹם וּבֵין לָיְלָה.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser nátán lászechvi viná, lehavchin bén jom uvén lajlá.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki értelmet adott a kakasnak, hogy megkülönböztesse a nappalt az éjszakától."
+  },
+  {
+    "id": "sheasa-li-kol-tzarki",
+    "title": "Áldás a cipőre (Seászá li kol córki)",
+    "category": "reggel",
+    "emoji": "👞",
+    "when": "Reggel, cipő felvételekor a reggeli áldások között.",
+    "keywords": [
+      "cipő", "cipo", "felvettem a cipőmet", "reggeli ruha", "tzarki", "córki"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, שֶׁעָשָׂה לִי כָּל צָרְכִּי.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, seászá li kol córki.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki minden szükségletemről gondoskodtál."
+  },
+  {
+    "id": "hanoten-layaef",
+    "title": "Áldás az erőre (Hánóten lájáéf kóach)",
+    "category": "reggel",
+    "emoji": "💪",
+    "when": "Reggeli áldások között, erőért a fáradtnak.",
+    "keywords": [
+      "erő", "fáradt", "faradt", "kóach", "hanoten layaef", "erőt ad"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, הַנּוֹתֵן לַיָּעֵף כֹּחַ.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, hánóten lájáéf kóach.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki erőt adsz a fáradtnak."
+  },
+  {
+    "id": "omer",
+    "title": "Ómerszámlálás (Szirát háomer)",
+    "category": "ünnepek",
+    "emoji": "🔢",
+    "when": "Peszáchtól Sávuotig minden este, az ómer aznapi számának elmondásakor.",
+    "keywords": [
+      "omer", "ómer", "számlálás", "sefirat haomer", "sávuot előtt", "napok számolása"
+    ],
+    "hebrew": "בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם, אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו וְצִוָּנוּ עַל סְפִירַת הָעֹמֶר.",
+    "phonetic": "Báruch átáh Ádonáj Elohénu melech háolám, áser kidesánu bemicvotáv vecivánu al szfirát háomer.",
+    "translation": "Áldott vagy Te, Örökkévaló Istenünk, a Világ Királya, aki megparancsoltad az ómer számlálását. (Ezután mondd el az aznapi számot a sidurból.)"
+  }
+]
